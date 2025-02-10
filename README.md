@@ -35,7 +35,7 @@ o Um texto descritivo sobre a operação deve ser enviado ao Serial Monitor.
 o Uma mensagem informativa sobre o estado do LED deve ser exibida no display
 SSD1306
 o Um texto descritivo sobre a operação deve ser enviado ao Serial Monitor.
-Requisitos do Projeto
+## Requisitos do Projeto
 Para o desenvolvimento, devem ser seguidos os seguintes requisitos:
 1. Uso de interrupções: Todas as funcionalidades relacionadas aos botões devem ser implementadas
 utilizando rotinas de interrupção (IRQ).
@@ -49,4 +49,6 @@ como, a utilização do protocolo I2C.
 6. Organização do código: O código deve estar bem estruturado e comentado para facilitar o
 entendimento
 
+## Video Demonstração:
+https://drive.google.com/file/d/14SyCZbFYn4npwpmBagWu1GYcmbeLmhVO/view?usp=sharing
  
